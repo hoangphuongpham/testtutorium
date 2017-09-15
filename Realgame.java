@@ -36,6 +36,7 @@ public class Realgame {
                 break;
             } else {
                 System.out.println("I don't understand.");
+		System.out.println("me too!");
                 choice = readInput("Please type either 'yes' or 'no' > ");
             }
         }
